@@ -78,6 +78,6 @@
 </p>
 ## 🐍 Minhas contribuições
 
-<p align="center">
-  <img src="https://github.com/SEU-USUARIO-AQUI/seu-repositorio/blob/output/github-contribution-grid-snake.svg" />
+<<p align="center">
+  <img src="https://raw.githubusercontent.com/agatha-gitt/agatha-gitt/output/github-contribution-grid-snake.svg" />
 </p>
