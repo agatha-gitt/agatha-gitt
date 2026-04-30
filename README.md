@@ -1,67 +1,70 @@
-<<!-- Banner -->
+<!-- HEADER ROXO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Ágatha%20Rodrigues&fontSize=35&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c003e,100:6a11cb&height=200&section=header&text=Ágatha%20Rodrigues&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h2 align="center">👩‍💻 Estudante de Engenharia da Computação</h2>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Engenharia+da+Computação;Python+Developer+em+formação;Apaixonada+por+IA+e+Tecnologia&center=true&color=8e2de2">
+</h3>
+
+---
+
+## 💜 Sobre mim
+
+Sou estudante de **Engenharia da Computação (2º semestre) na UNIVESP** e estou iniciando minha jornada em programação com foco em **Python e Inteligência Artificial**.
+
+💡 Atualmente estudando:
+- Lógica de programação  
+- Python  
+- Git e GitHub  
+- Fundamentos de IA  
+
+🎯 Objetivo: atuar na área de desenvolvimento e IA.
+
+---
+
+## 🧠 Tecnologias em aprendizado
 
 <p align="center">
-  📚 2º semestre • 🐍 Aprendendo Python • 🚀 Futuro em IA
+
+![Python](https://img.shields.io/badge/Python-6a11cb?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4b0082?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2c003e?style=for-the-badge&logo=github&logoColor=white)
+
 </p>
 
 ---
 
-## 💫 Sobre mim
+## 📊 Estatísticas GitHub
 
-- 🌱 Iniciando minha jornada na programação  
-- 💻 Foco atual: Python e lógica de programação  
-- 🤖 Interesse em Inteligência Artificial  
-- 🎯 Objetivo: evoluir na área de tecnologia e desenvolvimento  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agatha-gitt&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
+</p>
 
 ---
-
-## 🛠️ Tecnologias que estou aprendendo
+## 💡 Skills em evolução
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<img src="https://skillicons.dev/icons?i=python,git,github" />
 
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-AQUI&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-AQUI&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📈 Contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO-AQUI&theme=tokyo-night" />
-</p>
-
----
-
-## 📫 Contato
+## 📫 Contato profissional
 
 <p align="center">
 
-<a href="https://github.com/SEU-USUARIO-AQUI">
-  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/agatha-gitt">
+  <img src="https://img.shields.io/badge/GitHub-4b0082?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="mailto:seuemail@email.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/%C3%A1gatha-rodrigues-58458520a/">
+  <img src="https://img.shields.io/badge/LinkedIn-6a11cb?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:agatharodriguessilva2105@gmail.com">
+  <img src="https://img.shields.io/badge/Email-8e2de2?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -69,15 +72,10 @@
 ---
 
 <p align="center">
-  ✨ “Aprendendo um passo de cada vez, construindo meu futuro na tecnologia.” ✨
+  💜 “Construindo meu futuro na tecnologia, um commit por vez.” 💜
 </p>
 
-<!-- Footer animation -->
+<!-- FOOTER ROXO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
-</p>
-## 🐍 Minha cobrinha
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/agatha-gitt/agatha-gitt/output/github-contribution-grid-snake.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2c003e&height=120&section=footer"/>
 </p>
