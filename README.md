@@ -76,8 +76,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
 </p>
-## 🐍 Minhas contribuições
+## 🐍 Minha cobrinha
 
-<<p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/agatha-gitt/agatha-gitt/output/github-contribution-grid-snake.svg" />
 </p>
