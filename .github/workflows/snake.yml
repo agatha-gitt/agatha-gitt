@@ -9,11 +9,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@master
+      - uses: Platane/snk@v3
         with:
           github_user_name: agatha-gitt
-          outputs: |
-            dist/github-contribution-grid-snake.svg
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
