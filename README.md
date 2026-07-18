@@ -4,14 +4,14 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Engenharia+da+Computação;Python+Developer+em+formação;Apaixonada+por+IA+e+Tecnologia&center=true&color=8e2de2">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Engenharia+da+Computação;Developer+em+formação;Apaixonada+por+IA+e+Tecnologia&center=true&color=8e2de2">
 </h3>
 
 ---
 
 ## 💜 Sobre mim
 
-Sou estudante de **Engenharia da Computação (2º semestre) na UNIVESP** e estou iniciando minha jornada em programação com foco em **Python e Inteligência Artificial**.
+Sou estudante de **Engenharia da Computação (2º semestre) na UNIVESP** e estou iniciando minha jornada em programação com foco em **Desenvolvimento e Inteligência Artificial**.
 
 💡 Atualmente estudando:
 - Lógica de programação  
