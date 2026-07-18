@@ -17,7 +17,10 @@ Sou estudante de **Engenharia da Computação (3º semestre) na UNIVESP** e esto
 - Lógica de programação  
 - Python  
 - Git e GitHub  
-- Fundamentos de IA  
+- Fundamentos de IA
+- JavaScript
+- CSS
+- HTML
 
 🎯 Objetivo: atuar na área de desenvolvimento e IA.
 
