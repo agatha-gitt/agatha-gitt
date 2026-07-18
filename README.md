@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Engenharia+da+Computação;Developer+em+formação;Apaixonada+por+IA+e+Tecnologia&center=true&color=8e2de2">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Engenharia+da+Computação;Apaixonada+por+IA+e+Tecnologia&center=true&color=8e2de2">
 </h3>
 
 ---
