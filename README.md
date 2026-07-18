@@ -11,7 +11,7 @@
 
 ## 💜 Sobre mim
 
-Sou estudante de **Engenharia da Computação (2º semestre) na UNIVESP** e estou iniciando minha jornada em programação com foco em **Desenvolvimento e Inteligência Artificial**.
+Sou estudante de **Engenharia da Computação (3º semestre) na UNIVESP** e estou iniciando minha jornada em programação com foco em **Desenvolvimento e Inteligência Artificial**.
 
 💡 Atualmente estudando:
 - Lógica de programação  
